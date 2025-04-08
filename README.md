@@ -1,2 +1,2 @@
 # diabetes
-diabets data has been analized with machine learning algoritms(XGboost, SVM, Decision Tree, Logical Regression) 
+Diabetes data has been analyzed with machine learning algorithms (XG boost, SVM, Decision Tree, Logical Regression)
